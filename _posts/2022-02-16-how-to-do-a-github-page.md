@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+title: "GitHub pages"
+date: 2022-03-16
 ---
 
 # Welcome
